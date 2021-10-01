@@ -18,10 +18,10 @@
   - [내용 정리](https://github.com/jionchu/Read-Dev-Book/tree/main/코틀린%20동시성%20프로그래밍/1장%20%7C%20Hello%2C%20Concurrent%20World!/프로세스%2C%20스레드%2C%20코루틴.md#white_check_mark-내용-정리)
   - [동시성에 대해](https://github.com/jionchu/Read-Dev-Book/tree/main/코틀린%20동시성%20프로그래밍/1장%20%7C%20Hello%2C%20Concurrent%20World!/동시성.md#1-동시성에-대해)
   - [동시성은 병렬성이 아니다](https://github.com/jionchu/Read-Dev-Book/tree/main/코틀린%20동시성%20프로그래밍/1장%20%7C%20Hello%2C%20Concurrent%20World!/동시성.md#2-동시성은-병렬성이-아니다)
-  - CPU 바운드와 I/O 바운드
-  - CPU 바운드 알고리즘에서의 동시성과 병렬성
-  - I/O 바운드 알고리즘에서의 동시성 대 병렬성
-  - 동시성이 어려운 이유
+  - [CPU 바운드와 I/O 바운드](https://github.com/jionchu/Read-Dev-Book/tree/main/코틀린%20동시성%20프로그래밍/1장%20%7C%20Hello%2C%20Concurrent%20World!/CPU%20바운드와%20IO%20바운드.md#1-cpu-바운드와-io-바운드)
+  - [CPU 바운드 알고리즘에서의 동시성과 병렬성](https://github.com/jionchu/Read-Dev-Book/tree/main/코틀린%20동시성%20프로그래밍/1장%20%7C%20Hello%2C%20Concurrent%20World!/CPU%20바운드와%20IO%20바운드.md#2-cpu-바운드-알고리즘에서의-동시성과-병렬성)
+  - [I/O 바운드 알고리즘에서의 동시성 대 병렬성](https://github.com/jionchu/Read-Dev-Book/tree/main/코틀린%20동시성%20프로그래밍/1장%20%7C%20Hello%2C%20Concurrent%20World!/CPU%20바운드와%20IO%20바운드.md#3-io-바운드-알고리즘에서의-동시성과-병렬성)
+  - [동시성이 어려운 이유](https://github.com/jionchu/Read-Dev-Book/tree/main/코틀린%20동시성%20프로그래밍/1장%20%7C%20Hello%2C%20Concurrent%20World!/동시성이%20어려운%20이유.md)
 - 코틀린에서의 동시성
   - 넌 블로킹
   - 명시적인 선언
