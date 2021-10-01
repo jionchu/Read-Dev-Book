@@ -23,6 +23,6 @@
   - [I/O 바운드 알고리즘에서의 동시성 대 병렬성](https://github.com/jionchu/Read-Dev-Book/tree/main/코틀린%20동시성%20프로그래밍/1장%20%7C%20Hello%2C%20Concurrent%20World!/CPU%20바운드와%20IO%20바운드.md#3-io-바운드-알고리즘에서의-동시성과-병렬성)
   - [동시성이 어려운 이유](https://github.com/jionchu/Read-Dev-Book/tree/main/코틀린%20동시성%20프로그래밍/1장%20%7C%20Hello%2C%20Concurrent%20World!/동시성이%20어려운%20이유.md)
 - 코틀린에서의 동시성
-  - 넌 블로킹
-  - 명시적인 선언
-  - 코틀린 동시성 관련 개념과 용어
+  - [넌 블로킹](https://github.com/jionchu/Read-Dev-Book/tree/main/코틀린%20동시성%20프로그래밍/1장%20%7C%20Hello%2C%20Concurrent%20World!/코틀린에서의%20동시성.md#no_entry_sign-넌-블로킹)
+  - [명시적인 선언](https://github.com/jionchu/Read-Dev-Book/tree/main/코틀린%20동시성%20프로그래밍/1장%20%7C%20Hello%2C%20Concurrent%20World!/코틀린에서의%20동시성.md#bangbang-명시적인-선언)
+  - [코틀린 동시성 관련 개념과 용어](https://github.com/jionchu/Read-Dev-Book/tree/main/코틀린%20동시성%20프로그래밍/1장%20%7C%20Hello%2C%20Concurrent%20World!/코틀린에서의%20동시성.md#ab-코틀린-동시성-관련-개념과-용어)
