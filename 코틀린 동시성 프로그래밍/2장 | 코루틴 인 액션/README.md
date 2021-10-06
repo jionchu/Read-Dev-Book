@@ -12,7 +12,7 @@
 - 안드로이드 스튜디오 다운로드 및 설치
 - 코틀린 프로젝트 생성하기
 - [코루틴 지원 추가하기](https://github.com/jionchu/Read-Dev-Book/tree/main/코틀린%20동시성%20프로그래밍/2장%20%7C%20코루틴%20인%20액션/코루틴%20지원%20추가하기.md)
-- 안드로이드의 UI 스레드
+- [안드로이드의 UI 스레드](https://github.com/jionchu/Read-Dev-Book/tree/main/코틀린%20동시성%20프로그래밍/2장%20%7C%20코루틴%20인%20액션/안드로이드의%20UI%20스레드.md)
   - CallFromWrongThreadException
   - NetworkOnMainThreadException
   - 백그라운드에서 요청하고, UI 스레드에서 업데이트할 것
