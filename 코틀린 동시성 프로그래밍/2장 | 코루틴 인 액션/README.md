@@ -16,7 +16,7 @@
   - CallFromWrongThreadException
   - NetworkOnMainThreadException
   - 백그라운드에서 요청하고, UI 스레드에서 업데이트할 것
-- 스레드 생성
+- [스레드 생성](https://github.com/jionchu/Read-Dev-Book/tree/main/코틀린%20동시성%20프로그래밍/2장%20%7C%20코루틴%20인%20액션/스레드%20생성.md)
   - CoroutineDispatcher
   - 디스패처에 코루틴 붙이기
 - 네트워킹 사용 권한 추가
